@@ -128,4 +128,50 @@ In summary, deep learning is a specialized subset of machine learning that excel
 
 6. **Recommendation Systems**: Machine learning powers recommendation engines in e-commerce, streaming services, and social media, enhancing user experience and engagement.
 
-Overall, the significance of machine learning lies in its ability to automate tasks, make accurate predictions, and uncover valuable patterns and insights from data, leading to improved decision-making and efficiency across various industries.\n--------------------------------------------------\n\nQuestion: \nAnswer: How is machine learning different from conventional programming methods?\n--------------------------------------------------\n\n
+Overall, the significance of machine learning lies in its ability to automate tasks, make accurate predictions, and uncover valuable patterns and insights from data, leading to improved decision-making and efficiency across various industries.\n--------------------------------------------------\n\nQuestion: \nAnswer: How is machine learning different from conventional programming methods?\n--------------------------------------------------\n\nQuestion: 1. What is the difference between AI, ML, and DL according to the text?\nAnswer: According to the text, the difference between AI, ML, and DL is as follows:
+
+1. **Artificial Intelligence (AI)**: AI solves tasks that require human intelligence. It enables a machine to simulate human behavior.
+   
+2. **Machine Learning (ML)**: ML is a subset of AI that solves specific tasks by learning from data and making predictions. It allows a machine to automatically learn from past data without explicit programming.
+   
+3. **Deep Learning (DL)**: DL is a specialized subset of ML. It relies on a layered structure of algorithms called an artificial neural network. Deep learning algorithms analyze data with a logic structure similar to how a human would draw conclusions.\n--------------------------------------------------\n\nQuestion: 2. What are the objectives of the unit "Introduction to Machine Learning"?\nAnswer: The objectives of the unit "Introduction to Machine Learning" are:
+
+1. Gain a basic understanding of machine learning.
+2. Differentiate machine learning from other concepts like AI and DL.
+3. Understand the significance of machine learning.
+4. Learn about statistics and its types.\n--------------------------------------------------\n\nQuestion: 3. How is machine learning different from conventional programming methods?\nAnswer: Machine learning differs from conventional programming methods in the way that in conventional programming, a programmer needs to hard code the logic of the program. On the other hand, in machine learning, the system learns from input data and uses statistical models to perform tasks effectively. In conventional programming, explicit instructions are provided, while in machine learning, the system relies on patterns and inference from the data.\n--------------------------------------------------\n\nQuestion: 4. What are the different types of statistics mentioned in the text?\nAnswer: The different types of statistics mentioned in the text are Descriptive Statistics and Inferential Statistics.\n--------------------------------------------------\n\nQuestion: 5. How is machine learning significant in various fields like healthcare, education, and financial services?\nAnswer: Machine learning is significant in various fields like healthcare, education, and financial services in the following ways:
+
+1. **Healthcare**: Machine learning can predict heart attack death rates, birth rates, and other health-related insights. It helps in taking necessary actions based on the predictions made by analyzing the data. For example, it can assist in early detection of diseases, personalized treatment plans, and improving patient outcomes.
+
+2. **Education**: Machine learning can analyze student performance data to predict future results based on past data. It helps in identifying areas where students may need additional support, personalized learning paths, and improving overall educational outcomes.
+
+3. **Financial Services**: In financial services, machine learning is used for fraud detection, loan prediction, risk assessment, and other financial analysis tasks. It helps in making more accurate predictions, reducing risks, and improving decision-making processes in the financial sector.
+
+Overall, machine learning plays a crucial role in these fields by providing valuable insights, automating processes, and enhancing decision-making capabilities.\n--------------------------------------------------\n\nQuestion: 6. What are the different methods of machine learning categorization mentioned in the text?\nAnswer: The different methods of machine learning categorization mentioned in the text are:
+
+1. Supervised Learning
+2. Unsupervised Learning
+3. Semi-Supervised Learning
+4. Reinforcement Learning\n--------------------------------------------------\n\nQuestion: 7. Explain the concept of feature extraction in machine learning.\nAnswer: Feature extraction in machine learning refers to the process of transforming raw data into numerical features that can be processed while preserving the information in the original dataset. It involves selecting, combining, and transforming the data into a format that is suitable for machine learning algorithms to work effectively. Feature extraction helps in reducing the dimensionality of the data, making it easier for algorithms to process and identify patterns. By extracting relevant features from the data, machine learning models can make accurate predictions and classifications based on the transformed information.\n--------------------------------------------------\n\nQuestion: 8. What are the major differences between machine learning and artificial intelligence?\nAnswer: The major differences between machine learning and artificial intelligence are as follows:
+
+1. **Purpose**: 
+   - **Artificial Intelligence (AI)**: AI solves tasks that require human intelligence and enables machines to simulate human behavior.
+   - **Machine Learning (ML)**: ML is a subset of AI that focuses on specific tasks by learning from data and making predictions. It allows machines to automatically learn from past data without explicit programming.
+
+2. **Functionality**:
+   - **AI**: AI systems aim to maximize the chances of success and simulate human behavior.
+   - **ML**: ML systems focus on accuracy and patterns, learning from data to make predictions without explicit programming.
+
+3. **Human Intervention**:
+   - **AI**: AI systems require more human intervention to function effectively.
+   - **ML**: ML systems rely less on human intervention once trained and can function autonomously.
+
+4. **Complexity**:
+   - **AI**: AI can involve complex algorithms and systems to simulate human intelligence.
+   - **ML**: ML is a subset of AI and can be seen as a simpler, more focused approach to learning from data.
+
+5. **Scope**:
+   - **AI**: AI has a broader scope, encompassing various technologies that simulate human intelligence.
+   - **ML**: ML is a specific subset of AI that focuses on learning from data to make predictions and decisions.
+
+These differences highlight the distinct roles and functionalities of machine learning and artificial intelligence in the realm of technology and problem-solving.\n--------------------------------------------------\n\nQuestion: 9. How is deep learning different from machine learning?\nAnswer: Deep learning is a specialized subset of machine learning. It relies on a layered structure of algorithms called an artificial neural network. Deep learning algorithms analyze data with a logic structure similar to how a human would draw conclusions. Deep learning requires huge amounts of data but little human intervention to function properly. Transfer learning is a method used to address the need for large training datasets in deep learning.\n--------------------------------------------------\n\nQuestion: 10. What are the measures of central tendency and variability in statistics mentioned in the text?\nAnswer: The measures of central tendency mentioned in the text are mean, mode, and median. The measures of variability mentioned are range, standard deviation, and variance.\n--------------------------------------------------\n\n
